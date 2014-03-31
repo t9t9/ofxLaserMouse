@@ -3,7 +3,7 @@ ofxLaserMouse
 
 openFrameworks addon to use a laser pointer as a mouse.
 
-openFrameworks v0.8
+* openFrameworks v0.8
 - ofxOpenCv
 - ofxGui
 
